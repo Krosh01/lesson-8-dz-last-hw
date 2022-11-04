@@ -1,0 +1,76 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Iphone 13 Pro",
+      "price": "1000",
+      "memory": "512",
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/IPhone%2013/Pro/2-500x500.jpg",
+      "category": "Iphone`s"
+    },
+    {
+      "id": 2,
+      "title": "Iphone 12 Pro",
+      "price": 1000,
+      "memory": 256,
+      "image": "https://login.kg/image/cache/catalog/new/Phones/Apple/iPhone%2012%20Pro/1-500x500.jpg",
+      "category": "Iphone`s"
+    },
+    {
+      "id": 3,
+      "title": "Iphone 11 Pro",
+      "price": 900,
+      "memory": 256,
+      "image": "https://kattabozor.s3.eu-central-1.amazonaws.com/ri/9f98735df5bedb44486907594dd977b894777e86d01f0b38333f832c54af5cea_EWLYAf_640l.jpg",
+      "category": "Iphone`s"
+    },
+    {
+      "id": 4,
+      "title": "Iphone 10",
+      "price": 800,
+      "memory": 256,
+      "image": "https://kwingy.com/wp-content/uploads/2022/05/apple-iphone-x-64gb-space-grey-with-facetime-d85_1-1-600x600-1.jpg",
+      "category": "Iphone`s"
+    },
+    {
+      "id": 5,
+      "title": "Iphone 12 Pro Max",
+      "price": 800,
+      "memory": 256,
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIK_tBWmDqO-fT9rnUpIKYI6Yn8Gs7wDxa6ywq0wYaUsUhxYbdzKVwKx0xM3Cj6US7Oes&usqp=CAU",
+      "category": "Iphone`s"
+    },
+    {
+      "title": "Apple watch 3",
+      "price": "199",
+      "memory": "16",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/FQKW2?wid=1673&hei=1353&fmt=jpeg&qlt=95&.v=1517334319257",
+      "category": "Watches",
+      "id": 6
+    },
+    {
+      "title": "Apple watch 7",
+      "price": "299",
+      "memory": "32",
+      "image": "https://m.media-amazon.com/images/I/41j+XyN9+YL._AC_SY1000_.jpg",
+      "category": "Watches",
+      "id": 7
+    },
+    {
+      "title": "Apple Accessories",
+      "price": "399",
+      "memory": "32",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPU63?wid=532&hei=582&fmt=png-alpha&.v=1661471392701",
+      "category": "Accessories",
+      "id": 8
+    },
+    {
+      "title": "Apple chargers adapters",
+      "price": "40",
+      "memory": "12",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MU7T2_GEO_US?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1542406417329",
+      "category": "Chargers adapters",
+      "id": 9
+    }
+  ]
+}

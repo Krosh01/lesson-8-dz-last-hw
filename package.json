@@ -1,0 +1,15 @@
+{
+  "name": "applewatch",
+  "version": "1.0.0",
+  "description": "apple store",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "author": "aijamal anarbekova",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
